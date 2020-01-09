@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/fullstack2019-osa5-21/node_modules
 /.pnp
 .pnp.js
 
